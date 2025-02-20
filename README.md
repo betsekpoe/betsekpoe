@@ -3,7 +3,7 @@
 I'm **Blessing Tsekpoe**  
 
 👀 **What I’m Interested In**  
-I’m passionate about **Web Development**, especially building **web apps** using **React** and **Django**.  
+I’m passionate about **Web Development**, especially building **web apps** using **Django**.  
 
 🌱 **What I’m Learning**  
-Right now, I’m focused on mastering **the basics** 🙃 and building a strong foundation in web development.  
+Right now, I’m focused on mastering the basics of Django and building a strong foundation in web development. 
