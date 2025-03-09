@@ -25,4 +25,4 @@
 
 
 ### My LinkedIn
-<a href="https://www.linkedin.com/in/blessing-t-6265292aa/" target="_blank"><img src="images/linkedin.svg" height="50px"></a>
+<a href="https://www.linkedin.com/in/blessing-t-6265292aa/"><img src="images/linkedin.svg" height="50px"></a>
