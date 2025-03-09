@@ -1,9 +1,28 @@
-## Hi there 👋  
+## Hi! 👋  I'm **Blessing Tsekpoe**  
 
-I'm **Blessing Tsekpoe**  
 
-👀 **What I’m Interested In**  
-I’m passionate about **Web Development**, especially building **web apps** using **Django**.  
+### About Me  
+🔹 Passionate **Web Developer** with a love for **Django** and building innovative web apps.  
+🔹 Computer Engineering Student at KNUST, Programmer (Python), Graphic Designer, Media Enthusiast.  
 
-🌱 **What I’m Learning**  
-Right now, I’m focused on mastering the basics of Django and building a strong foundation in web development. 
+
+### What I’m Learning  
+🔹 Mastering **Django** for backend development.  
+🔹 Deepening my understanding of **Node JS** & **Databases**.  
+🔹 Enhancing my **frontend** skills to complement my backend expertise.  
+
+
+### Tech Stack  
+<div>
+  <img src="images/python.svg" height="50px"/>
+  <img src="images/django.svg" height="50px"/>
+</div>
+
+  ### Learning
+<div>
+  <img src="images/node.svg" height="50px"/>
+</div>
+
+
+### My LinkedIn
+<a href=""><img src="images/linkedin.svg" height="50px"></a>
