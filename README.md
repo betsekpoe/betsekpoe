@@ -2,11 +2,10 @@
 
 
 ### About Me 
-• Computer Engineering Student at KNUST, Programmer (Python), Graphic Designer, Media Enthusiast.  
+• Computer Engineering Student at KNUST, Budding Web Dev, Graphic Designer & Media Enthusiast.  
 
 ### What I’m Learning 🤓
-• Python
+• HTML / CSS / Javacript
 
 ### Interested In ✨
 • Web Development
-• Data Science
