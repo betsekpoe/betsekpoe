@@ -1,11 +1,15 @@
-## Hi! 👋 I'm **Blessing Tsekpoe**  
+# Hi! 👋 I'm **Blessing Tsekpoe**  
 
+Computer Engineering student at KNUST. I build web applications, and utilize AI tools to develop fast, reliable apps.
 
-### About Me 
-• Computer Engineering Student at KNUST, Budding Web Dev (backend), Graphic Designer & Media Enthusiast.  
+## Main Tech Stack
 
-### What I’m Learning 🤓
-• Python
+**Frontend** – JavaScript, Next.js  
+**Backend** – Python, Django  
+**Database** – MySQL, PostgreSQL
+**Tools** – Git & GitHub
 
-### Interested In ✨
-• Web Development
+## Currently Learning
+
+Next.js for modern web applications  
+Django for backend development
