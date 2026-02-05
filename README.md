@@ -18,5 +18,4 @@ I am a passionate builder dedicated to creating fast, reliable, and intelligent 
 | --- | --- |
 | **Frontend** | React, Next.js, Tailwind CSS |
 | **Backend** | Node.js, Python (Django/FastAPI) |
-| **AI & Automation** | OpenAI API, LangChain, GitHub Copilot |
 | **Database** | PostgreSQL, MongoDB |
