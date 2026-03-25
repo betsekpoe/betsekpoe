@@ -1,21 +1,24 @@
-# 👋 Hi, I'm Blessing Tsekpoe
+# Hi, I'm Blessing 👋
 
-**Computer Engineering Student @ KNUST | Web Developer**
-
-I am a passionate builder dedicated to creating fast, reliable, and intelligent web applications. I bridge the gap between traditional engineering principles and modern AI capabilities to ship high-quality software.
+Learning developer focused on building needed web experiences.  
+Love exploring Python for whatever random ideas come to mind.
 
 ---
 
-### 🚀 What I’m Up To
+**Stack**
 
-* 🎓 **Education:** Pursuing a BSc. in Computer Engineering at Kwame Nkrumah University of Science and Technology.
-* 🛠️ **Building:** Scalable web apps using modern frameworks and AI automation.
-* 🐍 **Learning:** Currently deepening my expertise in **Python** for Data Science and Backend Optimization.
+- Next.js, Tailwind CSS, Bootstrap 
+- Python — scripting & small projects
+- Little bit of Django 
 
-### 🛠️ Tech Stack & Tools
+---
 
-| Category | Tools |
-| --- | --- |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Python (Django/FastAPI) |
-| **Database** | PostgreSQL, MongoDB |
+**Currently**
+
+- 🛠 Building with Next.js
+- 🐍 Growing my Python skills one script at a time
+- 📖 Always learning
+
+---
+
+*Feel free to explore my repos and reach out on any interesting ideas.*
