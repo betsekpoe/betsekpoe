@@ -1,24 +1,18 @@
 # Hi, I'm Blessing 👋
 
 Learning developer focused on building needed web experiences.  
-Love exploring Python for whatever random ideas come to mind.
+Love exploring Python for random stuff
 
 ---
 
 **Stack**
 
-- Next.js, Tailwind CSS, Bootstrap 
+- Next.js, Tailwind 
 - Python — scripting & small projects
-- Little bit of Django 
+- Little bit of Django
 
 ---
 
-**Currently**
+**Leaning**
 
-- 🛠 Building with Next.js
-- 🐍 Growing my Python skills one script at a time
-- 📖 Always learning
-
----
-
-*Feel free to explore my repos and reach out on any interesting ideas.*
+- Python for backend web development 
