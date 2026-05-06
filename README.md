@@ -7,7 +7,7 @@ Love exploring Python for random stuff
 
 **Stack**
 
-- Next.js, Tailwind 
+- React.js, Tailwind 
 - Python — scripting & small projects
 - Little bit of Django
 
