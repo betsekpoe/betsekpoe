@@ -7,12 +7,11 @@ Love exploring Python for random stuff
 
 **Stack**
 
-- React.js, Tailwind 
+- React, Tailwindcss
 - Python — scripting & small projects
 - Little bit of Django
 
 ---
 
-**Leaning**
-
+**Learning**
 - Python for backend web development 
